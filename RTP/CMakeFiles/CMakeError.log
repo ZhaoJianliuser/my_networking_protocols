@@ -1,0 +1,42 @@
+Determining if the include file sys/filio.h exists failed with the following output:
+Change Dir: C:/Users/zhaojianli/Desktop/小米工作/协议/RTP/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_bb324.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=16.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 16.5.0+d4cbfca49
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.25.28611 版
+  CheckIncludeFile.cxx
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_bb324.dir\Debug\\" /Fd"cmTC_bb324.dir\Debug\vc142.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Users\zhaojianli\Desktop\小米工作\协议\RTP\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+C:\Users\zhaojianli\Desktop\小米工作\协议\RTP\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx(1,10): fatal error C1083: 无法打开包括文件: “sys/filio.h”: No such file or directory [C:\Users\zhaojianli\Desktop\小米工作\协议\RTP\CMakeFiles\CMakeTmp\cmTC_bb324.vcxproj]
+
+
+
+Determining if the include file sys/sockio.h exists failed with the following output:
+Change Dir: C:/Users/zhaojianli/Desktop/小米工作/协议/RTP/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_88521.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=16.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 16.5.0+d4cbfca49
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.25.28611 版
+  CheckIncludeFile.cxx
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_88521.dir\Debug\\" /Fd"cmTC_88521.dir\Debug\vc142.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Users\zhaojianli\Desktop\小米工作\协议\RTP\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+C:\Users\zhaojianli\Desktop\小米工作\协议\RTP\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx(1,10): fatal error C1083: 无法打开包括文件: “sys/sockio.h”: No such file or directory [C:\Users\zhaojianli\Desktop\小米工作\协议\RTP\CMakeFiles\CMakeTmp\cmTC_88521.vcxproj]
+
+
+
+Determining if the include file netinet/in.h exists failed with the following output:
+Change Dir: C:/Users/zhaojianli/Desktop/小米工作/协议/RTP/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_ef993.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=16.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 16.5.0+d4cbfca49
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.25.28611 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  CheckIncludeFile.cxx
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_ef993.dir\Debug\\" /Fd"cmTC_ef993.dir\Debug\vc142.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Users\zhaojianli\Desktop\小米工作\协议\RTP\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+C:\Users\zhaojianli\Desktop\小米工作\协议\RTP\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx(1,10): fatal error C1083: 无法打开包括文件: “netinet/in.h”: No such file or directory [C:\Users\zhaojianli\Desktop\小米工作\协议\RTP\CMakeFiles\CMakeTmp\cmTC_ef993.vcxproj]
+
+
+

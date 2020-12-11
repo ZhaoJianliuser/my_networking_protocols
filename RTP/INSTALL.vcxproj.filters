@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\zhaojianli\Desktop\小米工作\协议\RTP\CMakeFiles\a71fb7b6cc5cc2fe5af68d4b20ef2808\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{23C59263-9B9F-3973-B348-F431799A1976}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

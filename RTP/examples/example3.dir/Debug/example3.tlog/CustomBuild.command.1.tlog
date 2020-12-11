@@ -1,0 +1,10 @@
+^C:\USERS\ZHAOJIANLI\DESKTOP\小米工作\协议\RTP\JRTPLIB\EXAMPLES\CMAKELISTS.TXT
+setlocal
+D:\CMake\bin\cmake.exe -SC:/Users/zhaojianli/Desktop/小米工作/协议/RTP/JRTPLIB -BC:/Users/zhaojianli/Desktop/小米工作/协议/RTP --check-stamp-file C:/Users/zhaojianli/Desktop/小米工作/协议/RTP/examples/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

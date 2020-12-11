@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/zhaojianli/Desktop/小米工作/协议/RTP/JRTPLIB/examples/CMakeLists.txt
+  example3.cpp
+C:\Users\zhaojianli\Desktop\小米工作\协议\RTP\JRTPLIB\examples\example3.cpp(69,53): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\zhaojianli\Desktop\小米工作\协议\RTP\JRTPLIB\examples\example3.cpp(100,55): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\zhaojianli\Desktop\小米工作\协议\RTP\JRTPLIB\examples\example3.cpp(133,55): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  example3.vcxproj -> C:\Users\zhaojianli\Desktop\小米工作\协议\RTP\examples\Debug\example3.exe

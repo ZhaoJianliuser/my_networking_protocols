@@ -1,0 +1,68 @@
+﻿  Building Custom Rule C:/Users/zhaojianli/Desktop/小米工作/协议/RTP/JRTPLIB/src/CMakeLists.txt
+  rtcpapppacket.cpp
+  rtcpbyepacket.cpp
+  rtcpcompoundpacket.cpp
+  rtcpcompoundpacketbuilder.cpp
+C:\Users\zhaojianli\Desktop\小米工作\协议\RTP\JRTPLIB\src\rtcpcompoundpacketbuilder.cpp(366,73): warning C4267: “参数”: 从“size_t”转换到“uint8_t”，可能丢失数据
+C:\Users\zhaojianli\Desktop\小米工作\协议\RTP\JRTPLIB\src\rtcpcompoundpacketbuilder.cpp(382,30): warning C4267: “=”: 从“size_t”转换到“uint8_t”，可能丢失数据
+  rtcppacket.cpp
+  rtcppacketbuilder.cpp
+C:\Users\zhaojianli\Desktop\小米工作\协议\RTP\JRTPLIB\src\rtcppacketbuilder.cpp(180,5): warning C4267: “参数”: 从“size_t”转换到“uint8_t”，可能丢失数据
+C:\Users\zhaojianli\Desktop\小米工作\协议\RTP\JRTPLIB\src\rtcppacketbuilder.cpp(519,7): warning C4267: “参数”: 从“size_t”转换到“uint8_t”，可能丢失数据
+C:\Users\zhaojianli\Desktop\小米工作\协议\RTP\JRTPLIB\src\rtcppacketbuilder.cpp(536,7): warning C4267: “参数”: 从“size_t”转换到“uint8_t”，可能丢失数据
+C:\Users\zhaojianli\Desktop\小米工作\协议\RTP\JRTPLIB\src\rtcppacketbuilder.cpp(553,7): warning C4267: “参数”: 从“size_t”转换到“uint8_t”，可能丢失数据
+C:\Users\zhaojianli\Desktop\小米工作\协议\RTP\JRTPLIB\src\rtcppacketbuilder.cpp(570,7): warning C4267: “参数”: 从“size_t”转换到“uint8_t”，可能丢失数据
+C:\Users\zhaojianli\Desktop\小米工作\协议\RTP\JRTPLIB\src\rtcppacketbuilder.cpp(587,7): warning C4267: “参数”: 从“size_t”转换到“uint8_t”，可能丢失数据
+C:\Users\zhaojianli\Desktop\小米工作\协议\RTP\JRTPLIB\src\rtcppacketbuilder.cpp(604,7): warning C4267: “参数”: 从“size_t”转换到“uint8_t”，可能丢失数据
+C:\Users\zhaojianli\Desktop\小米工作\协议\RTP\JRTPLIB\src\rtcppacketbuilder.cpp(708,5): warning C4267: “参数”: 从“size_t”转换到“uint8_t”，可能丢失数据
+C:\Users\zhaojianli\Desktop\小米工作\协议\RTP\JRTPLIB\src\rtcppacketbuilder.cpp(720,5): warning C4267: “参数”: 从“size_t”转换到“uint8_t”，可能丢失数据
+  rtcprrpacket.cpp
+  rtcpscheduler.cpp
+  rtcpsdesinfo.cpp
+  rtcpsdespacket.cpp
+  rtcpsrpacket.cpp
+  rtpcollisionlist.cpp
+  rtpdebug.cpp
+  rtperrors.cpp
+  rtpinternalsourcedata.cpp
+  rtpipv4address.cpp
+  rtpipv6address.cpp
+  rtpipv4destination.cpp
+  rtpipv6destination.cpp
+  rtplibraryversion.cpp
+  正在生成代码...
+  正在编译...
+  rtppacket.cpp
+  rtppacketbuilder.cpp
+  rtppollthread.cpp
+  rtprandom.cpp
+  rtprandomrand48.cpp
+  rtprandomrands.cpp
+  rtprandomurandom.cpp
+C:\Users\zhaojianli\Desktop\小米工作\协议\RTP\JRTPLIB\src\rtprandomurandom.cpp(57,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  rtpsession.cpp
+C:\Users\zhaojianli\Desktop\小米工作\协议\RTP\JRTPLIB\src\rtpsession.cpp(748,5): warning C4267: “参数”: 从“size_t”转换到“uint8_t”，可能丢失数据
+  rtpsessionparams.cpp
+  rtpsessionsources.cpp
+  rtpsourcedata.cpp
+C:\Users\zhaojianli\Desktop\小米工作\协议\RTP\JRTPLIB\src\rtpsourcedata.cpp(219,31): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+C:\Users\zhaojianli\Desktop\小米工作\协议\RTP\JRTPLIB\src\rtpsourcedata.cpp(233,31): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+  rtpsources.cpp
+  rtptimeutilities.cpp
+  rtpudpv4transmitter.cpp
+C:\Users\zhaojianli\Desktop\小米工作\协议\RTP\JRTPLIB\src\rtpudpv4transmitter.cpp(650,10): warning C4996: 'gethostbyaddr': Use getnameinfo() or GetNameInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\zhaojianli\Desktop\小米工作\协议\RTP\JRTPLIB\src\rtpudpv4transmitter.cpp(1910,7): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  rtpudpv6transmitter.cpp
+C:\Users\zhaojianli\Desktop\小米工作\协议\RTP\JRTPLIB\src\rtpudpv6transmitter.cpp(425,10): warning C4996: 'gethostbyaddr': Use getnameinfo() or GetNameInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  rtpbyteaddress.cpp
+  rtpexternaltransmitter.cpp
+C:\Users\zhaojianli\Desktop\小米工作\协议\RTP\JRTPLIB\src\rtpexternaltransmitter.cpp(230,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  rtpsecuresession.cpp
+  rtpabortdescriptors.cpp
+C:\Users\zhaojianli\Desktop\小米工作\协议\RTP\JRTPLIB\src\rtpabortdescriptors.cpp(113,25): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  rtptcpaddress.cpp
+  正在生成代码...
+  正在编译...
+  rtptcptransmitter.cpp
+  正在生成代码...
+  jrtplib-static.vcxproj -> C:\Users\zhaojianli\Desktop\小米工作\协议\RTP\src\Debug\jrtplib_d.lib

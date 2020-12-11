@@ -1,0 +1,14 @@
+C:/Users/zhaojianli/Desktop/小米工作/协议/RTP/CMakeFiles/INSTALL.dir
+C:/Users/zhaojianli/Desktop/小米工作/协议/RTP/CMakeFiles/ALL_BUILD.dir
+C:/Users/zhaojianli/Desktop/小米工作/协议/RTP/CMakeFiles/ZERO_CHECK.dir
+C:/Users/zhaojianli/Desktop/小米工作/协议/RTP/src/CMakeFiles/jrtplib-static.dir
+C:/Users/zhaojianli/Desktop/小米工作/协议/RTP/src/CMakeFiles/INSTALL.dir
+C:/Users/zhaojianli/Desktop/小米工作/协议/RTP/examples/CMakeFiles/example1.dir
+C:/Users/zhaojianli/Desktop/小米工作/协议/RTP/examples/CMakeFiles/example2.dir
+C:/Users/zhaojianli/Desktop/小米工作/协议/RTP/examples/CMakeFiles/example3.dir
+C:/Users/zhaojianli/Desktop/小米工作/协议/RTP/examples/CMakeFiles/example4.dir
+C:/Users/zhaojianli/Desktop/小米工作/协议/RTP/examples/CMakeFiles/example5.dir
+C:/Users/zhaojianli/Desktop/小米工作/协议/RTP/examples/CMakeFiles/example6.dir
+C:/Users/zhaojianli/Desktop/小米工作/协议/RTP/examples/CMakeFiles/example7.dir
+C:/Users/zhaojianli/Desktop/小米工作/协议/RTP/examples/CMakeFiles/example8.dir
+C:/Users/zhaojianli/Desktop/小米工作/协议/RTP/examples/CMakeFiles/INSTALL.dir

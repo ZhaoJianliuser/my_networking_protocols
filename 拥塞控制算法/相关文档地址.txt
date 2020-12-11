@@ -1,0 +1,7 @@
+
+
+1. TCP BBR - Exploring TCP congestion control			:	https://atoonk.medium.com/tcp-bbr-exploring-tcp-congestion-control-84c9c11dc3a9
+
+2. CUBIC TCP											:	https://en.wikipedia.org/wiki/CUBIC_TCP
+
+3. TCP Reno and Congestion Management 					:	http://intronetworks.cs.luc.edu/current/html/reno.html

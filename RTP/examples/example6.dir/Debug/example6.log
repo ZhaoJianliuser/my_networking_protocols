@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/zhaojianli/Desktop/小米工作/协议/RTP/JRTPLIB/examples/CMakeLists.txt
+  example6.cpp
+C:\Users\zhaojianli\Desktop\小米工作\协议\RTP\JRTPLIB\examples\example6.cpp(89,11): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  example6.vcxproj -> C:\Users\zhaojianli\Desktop\小米工作\协议\RTP\examples\Debug\example6.exe
