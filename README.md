@@ -1,3 +1,3 @@
 # myprotocols
 
-Accumulation of various protocol and techenical。
+Accumulation of various protocol and technique。
